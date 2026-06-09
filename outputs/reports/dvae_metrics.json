@@ -1,0 +1,9 @@
+{
+  "recon_mse_train": 0.4922231137752533,
+  "recon_mse_val": 0.5645155310630798,
+  "recon_mse_holdout": 0.7019273042678833,
+  "holdout_train_ratio": 1.4260348081588745,
+  "kl_final": 0.5541784763336182,
+  "epochs_trained": 180,
+  "status": "OK"
+}

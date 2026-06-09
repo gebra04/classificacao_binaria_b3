@@ -1,0 +1,95 @@
+{
+  "eventos_validados": [
+    {
+      "data": "2020-03-09",
+      "descricao": "COVID Circuit Breaker #1 — Ibovespa -12%",
+      "score": 0.9939,
+      "nivel": "CRITICO",
+      "detectado": true
+    },
+    {
+      "data": "2020-03-11",
+      "descricao": "COVID OMS declara pandemia — VIX > 50",
+      "score": 0.9425,
+      "nivel": "ATIPICO",
+      "detectado": true
+    },
+    {
+      "data": "2020-03-12",
+      "descricao": "COVID Circuit Breaker #2 — Ibovespa -14%",
+      "score": 0.9743,
+      "nivel": "ATIPICO",
+      "detectado": true
+    },
+    {
+      "data": "2020-03-16",
+      "descricao": "COVID Circuit Breaker #3 — Ibovespa -13%",
+      "score": 0.9929,
+      "nivel": "CRITICO",
+      "detectado": true
+    },
+    {
+      "data": "2020-03-18",
+      "descricao": "COVID VIX > 80 — máxima histórica",
+      "score": 0.9808,
+      "nivel": "ATIPICO",
+      "detectado": true
+    },
+    {
+      "data": "2020-03-23",
+      "descricao": "COVID Fundo do crash — Ibovespa na mínima",
+      "score": 0.9556,
+      "nivel": "ATIPICO",
+      "detectado": true
+    },
+    {
+      "data": "2017-05-18",
+      "descricao": "Joesley Day — gravação Temer, Ibovespa -8.8%",
+      "score": 0.999,
+      "nivel": "CRITICO",
+      "detectado": true
+    },
+    {
+      "data": "2018-05-28",
+      "descricao": "Greve dos caminhoneiros — caos logístico",
+      "score": 0.4927,
+      "nivel": "NORMAL",
+      "detectado": false
+    },
+    {
+      "data": "2018-10-08",
+      "descricao": "Pós-1º turno 2018 — Bolsonaro líder, Ibovespa +4.6%",
+      "score": 0.9975,
+      "nivel": "CRITICO",
+      "detectado": true
+    },
+    {
+      "data": "2023-03-13",
+      "descricao": "Colapso Silicon Valley Bank — contágio financeiro",
+      "score": 0.7852,
+      "nivel": "ATENCAO",
+      "detectado": false
+    },
+    {
+      "data": "2024-01-03",
+      "descricao": "Primeiro pregão 2024 — ajuste de posições",
+      "score": 0.9097,
+      "nivel": "ATIPICO",
+      "detectado": true
+    },
+    {
+      "data": "2025-04-07",
+      "descricao": "Tariffaço Trump reciprocal tariffs",
+      "score": 1.0,
+      "nivel": "CRITICO",
+      "detectado": true
+    }
+  ],
+  "taxa_deteccao": 0.8333333333333334,
+  "estatisticas": {
+    "score_medio": 0.6100196744515216,
+    "n_atipicos": 313,
+    "n_criticos": 283
+  },
+  "gerado_em": "2026-05-21T15:50:22.019914"
+}
